@@ -1,36 +1,35 @@
 <h1 align="center">Hi, I'm Sinchana 👋</h1>
 
 <p align="center">
-🎓 I'm a 3rd year ISE student currently  studying at AJ Institue of Engineering and Technology
-
-  🌱 Currently learning **Web Development**  
-
-💻 Interested in **Technology, Coding, and Building Creative Projects**  
-
-🚀 Growing step-by-step to become a **Full Stack Developer**
+🎓 I'm a 3rd year ISE student currently studying in <b>AJ Institute of Engineering and Technology (AJIET)</b>  
+🌱 I'm learning <b>Web Development</b>  
+💻 I'm interested in <b>technology, coding, and creating web projects</b>  
+🚀 My goal is to become a <b>Full Stack Developer</b>
 </p>
 
 ---
 
-### 🛠️ Skills & Tools  
-<p>
-🌐 HTML • CSS • JavaScript • Bootstrap  
-🐍 Python  
-☕ Java  
-</p>
+### 🛠️ Skills  
+- 🌐 HTML, CSS, JavaScript  
+- 🎨 Bootstrap  
+- 🐍 Python  
+- ☕ Java  
 
 ---
 
 ### ✨ About Me  
-- 💡 I love learning new technologies  
-- 🔭 Working on improving my frontend & backend skills  
-- 🎯 Goal: Become a confident and skilled developer  
-- 😊 Always excited to explore something new in tech  
+- 💡 I love exploring tech and learning new skills  
+- 🔭 Working on improving both frontend and backend  
+- 🎯 Aiming to grow into a skilled developer  
 
-## 🌐 Socials
+---
 
+### 🌐 Socials  
 🤝 Connect with me on LinkedIn  
-<a href="https://www.linkedin.com/in/sinchana-p-k-1110512b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />
+<a href="https://www.linkedin.com/in/sinchana-p-k-1110512b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ---
+
+⭐ *Thanks for visiting my profile!*  
