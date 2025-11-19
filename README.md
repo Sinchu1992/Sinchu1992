@@ -2,8 +2,11 @@
 
 <p align="center">
 🎓 I'm a 3rd year ISE student currently studying in <b>AJ Institute of Engineering and Technology (AJIET)</b>  
-🌱 I'm learning <b>Web Development</b>  
+
+  🌱 I'm learning <b>Web Development</b>  
+
 💻 I'm interested in <b>technology, coding, and creating web projects</b>  
+
 🚀 My goal is to become a <b>Full Stack Developer</b>
 </p>
 
