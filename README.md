@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sinchana 👋</h1>
 
 <p align="center">
-🎓 I'm a 3rd year ISE student currently studying in <b>AJ Institute of Engineering and Technology (AJIET)</b>  
+🎓 I'm a 3rd year ISE student currently studying in <b>AJ Institute of Engineering and Technology.</b>  
 
   🌱 I'm learning <b>Web Development</b>  
 
@@ -13,8 +13,7 @@
 ---
 
 ### 🛠️ Skills  
-- 🌐 HTML, CSS, JavaScript  
-- 🎨 Bootstrap  
+- 🌐 C,C++    
 - 🐍 Python  
 - ☕ Java  
 
