@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Sinchana 👋</h1>
 
 <p align="center">
-🎓 Im a 3rd year student ISE student currently  studying AJ Institue of Engineering and Technology
-🌱 Currently learning **Web Development**  
+🎓 I'm a 3rd year ISE student currently  studying at AJ Institue of Engineering and Technology
+
+  🌱 Currently learning **Web Development**  
+
 💻 Interested in **Technology, Coding, and Building Creative Projects**  
+
 🚀 Growing step-by-step to become a **Full Stack Developer**
 </p>
 
