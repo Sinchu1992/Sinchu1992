@@ -27,3 +27,11 @@
 - 🎯 Goal: Become a confident and skilled developer  
 - 😊 Always excited to explore something new in tech  
 
+## 🌐 Socials
+
+🤝 Connect with me on LinkedIn  
+<a href="https://www.linkedin.com/in/sinchana-p-k-1110512b9" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
